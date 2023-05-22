@@ -1,6 +1,8 @@
 
-
+<div align="center">
+  
 # Web-Development-Projects
+</div>
 
 - Welcome to my "Web Development Projects" repository, where I showcase my web development skills and potential. In this repository, you will find all of my web development projects organized by skill and category, making it easy for you to navigate and explore.
 
