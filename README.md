@@ -12,12 +12,12 @@
 
 - And if you're interested in working with me or have any questions about my projects or potential contributions, please don't hesitate to reach out. I'm always happy to connect and share more about my passion for web development and my commitment to delivering high-quality projects.
 
+<div align="center">
 
 |          Project Category           |                                                                   Frontend                                     |
 | :--------------------------: | :----------------------------------------------------- |
 | [Iphone 14 pro clone]()|  It is a clone of my iphone 14 (Tech Stack used - HTML, CSS)     |
 | [India Flag]()|  It is an Indian Flag (Tech Stack used - HTML, CSS)     |
-| [A Website Replica]()|  It is a clone of a website (Tech Stack used - HTML, CSS, SCSS)     |
 
 
-
+</div>
