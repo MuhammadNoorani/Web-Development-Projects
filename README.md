@@ -16,7 +16,7 @@
 
 |          Project Category           |                                                                   Frontend                                     |
 | :--------------------------: | :----------------------------------------------------- |
-| [Iphone 14 pro clone]()|  It is a clone of my iphone 14 (Tech Stack used - HTML, CSS)     |
+| [Iphone 14 pro clone](https://github.com/MuhammadNoorani/iphone-14-pro-clone)|  It is a clone of my iphone 14 (Tech Stack used - HTML, CSS)     |
 | [India Flag]()|  It is an Indian Flag (Tech Stack used - HTML, CSS)     |
 
 
